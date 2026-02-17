@@ -8,7 +8,7 @@ Problématique : Il n'y a **aucun** driver disponible pour ce périphérique sur
 
 Autant me débrouiller tout seul !
 
-## Prochaine étape : étudier et tracer les signaux émis par le capteur avec wireshark.
+### Prochaine étape : étudier et tracer les signaux émis par le capteur avec wireshark.
 
 ## 17 Février : Apprentissage des modules PAM et début d'écriture d'un code pour communiquer via la libusb
 Je vais donc faire en sorte de ne pas toucher au kernel, si cela peut m'éviter la doc infinie
